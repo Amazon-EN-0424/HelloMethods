@@ -26,8 +26,10 @@ public class Main {
         System.out.println("Data set 7, smallest number: " + findTheSmallestInteger(test7));
 
 
+//Car.drive()
 
-
+        var car1= new Car();
+        car1.drive();
     }
 
     public static int exerciseOne(){
